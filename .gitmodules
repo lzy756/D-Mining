@@ -1,0 +1,3 @@
+[submodule "weibo-search"]
+	path = weibo-search
+	url = https://github.com/dataabc/weibo-search.git
